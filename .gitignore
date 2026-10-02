@@ -1,0 +1,15 @@
+# Course-provided source files
+stc TV Data Set_T1.xlsb
+stc TV_T1.ipynb
+stc TV Data Set_T2.xlsx
+stc TV_T2.ipynb
+stc TV Data Set_T3.xlsx
+stc TV_T3.ipynb
+
+# Local analysis and notebook files
+.analysis_tmp/
+.task4_build/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*_Submission.zip
