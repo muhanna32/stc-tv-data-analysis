@@ -83,9 +83,9 @@ The slides include editable charts and tables. Speaker notes explain the evidenc
 ## Run in Google Colab
 
 1. Open the notebook for the task you want to explore:
-   - [Task 1 in Colab](https://colab.research.google.com/github/muhanna32/STC-dataset/blob/main/STC_TV_Task_1_Analysis.ipynb)
-   - [Task 2 in Colab](https://colab.research.google.com/github/muhanna32/STC-dataset/blob/main/STC_TV_Task_2_Forecast.ipynb)
-   - [Task 3 in Colab](https://colab.research.google.com/github/muhanna32/STC-dataset/blob/main/STC_TV_Task_3_Recommendations.ipynb)
+   - [Task 1 in Colab](https://colab.research.google.com/github/muhanna32/stc-tv-data-analysis/blob/main/STC_TV_Task_1_Analysis.ipynb)
+   - [Task 2 in Colab](https://colab.research.google.com/github/muhanna32/stc-tv-data-analysis/blob/main/STC_TV_Task_2_Forecast.ipynb)
+   - [Task 3 in Colab](https://colab.research.google.com/github/muhanna32/stc-tv-data-analysis/blob/main/STC_TV_Task_3_Recommendations.ipynb)
 2. Run the cells in order.
 3. Upload the corresponding course workbook when prompted. Reading the larger workbooks can take a few minutes.
 
@@ -102,8 +102,8 @@ The course-provided source workbooks and starter notebooks are not included in t
 Clone this repository, install the dependencies, and open Jupyter:
 
 ```bash
-git clone https://github.com/muhanna32/STC-dataset.git
-cd STC-dataset
+git clone https://github.com/muhanna32/stc-tv-data-analysis.git
+cd stc-tv-data-analysis
 python -m pip install -r requirements.txt
 jupyter notebook
 ```
