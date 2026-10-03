@@ -4,6 +4,12 @@ Analysis, forecasting and personalized recommendations using the datasets suppli
 
 **Author:** Muhanna Almutairi
 
+## Certificate
+
+[![Certificate of completion](certificates/stc_data_analysis_certificate_preview.png)](certificates/stc_data_analysis_certificate.pdf)
+
+This certificate confirms completion of the stc Data Analysis Virtual Work Experience through the Misk Foundation on 3 October 2026. Click the preview to open the original PDF.
+
 This learning project covers four tasks. All code, comments and documentation are in English. The notebooks include saved results and charts, so readers can review the work without downloading the source datasets or running the code.
 
 ## Project overview
